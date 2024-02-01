@@ -8,3 +8,4 @@ Somador subtrador contador de numeros impares e seu gráfico de ondas.
 
 Atenção! este projeto foi aprensentado na disciplina do profesor: Denisson Queiroz (UFMA), uso modificado do circuito acima será reconhecido pelo o mesmo, pois o circuito conta com Flip-flops alternado e a modificação do circuito o sistema não poderá funcionar completamente. 
 Plágio é crime!
+Autoria André Moura, cópia ou duplicação serão gegistrados e a pessoa será notificada.
